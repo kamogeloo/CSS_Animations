@@ -36,7 +36,7 @@ body{
     align-items: center;
     transform-origin: bottom;
     color: black;
-    box-shadow: -1px 10px 20px 5px rgba(99, 168, 99, 0.459);
+    box-shadow: -1px 10px 20px 5px rgba(247, 119, 172, 0.459);
 
 }
 .box-wrapper:hover{
