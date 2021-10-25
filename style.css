@@ -61,7 +61,11 @@ body{
 .cube-bottom{
     background: #1B5B6B;
     transform: translateZ(100px) rotateX(90deg);
-}    
+}  
+.cube-top{
+    background: red;
+    transform:translateZ(100px) rotateX(90deg) translateZ(200px);
+} 
    
 
 @keyframes rotate{
